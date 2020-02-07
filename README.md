@@ -11,4 +11,4 @@ Sample website with plenty of files for demos
 Fork, Change and create pull resuest
 
 #### Copyright
-Copyright (2020)
+Copyright (2020). All rights reserved
